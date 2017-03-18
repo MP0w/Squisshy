@@ -1,0 +1,6 @@
+framework module Squisshy {
+  umbrella header "Squisshy-umbrella.h"
+
+  export *
+  module * { export * }
+}
